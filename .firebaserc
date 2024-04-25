@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "cicd1-e1631",
+    "cicd1": "cicd1-e1631"
+  },
+  "targets": {},
+  "etags": {}
+}
